@@ -1,0 +1,20 @@
+body {
+    background-color: #DBC9DE;
+    text-align: center;
+    font-size: 40px;
+    color: #D3DCF;
+}
+
+button {
+    background-color: #DBC9DE;
+    transition: background-color 0.3s ease;
+    width: 150px;
+    height: 75px;
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+button:hover {
+    background-color: #D3DCF5;
+    text-align: center;
+}
